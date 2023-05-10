@@ -380,7 +380,7 @@ header.masthead h1, header.masthead .h1 {
 .col {
   font-family: 'Bree Serif', serif;
   font-size: 2ch;
-
+  color: rgba(0, 0, 0, 0.834);
 }
 
 .h-100 {

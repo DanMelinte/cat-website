@@ -1,3 +1,9 @@
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-RJ52Y186YW');
+
 function myFunction() {
     var input, filter, ul, li, a, i, txtValue;
 
